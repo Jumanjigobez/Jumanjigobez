@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Jumanjigobez
-- 👀 I’m interested in Coding Apps,Systems & Websites. 
+![portfolio](https://github.com/Jumanjigobez/Jumanjigobez/assets/73429193/54404272-f8af-4cc3-9965-28786b651db0)
+
+- 👀 I’m interested in Coding Mobile Apps,Systems & Websites. 
 - 🌱 I’m currently learning IT
-- 💞️ I’m looking to collaborate on App & Web Development. 
+- 💞️ I’m looking to collaborate on Mobile & Web Development. 
 - 📫 How to reach me whatsapp:+254799333217, FB: [juma casilas](https://www.facebook.com/juma.adani), IG: [@Jumanjicasilas](https://www.instagram.com/jumanjicasilas/) and Youtube: [Juma Gobe #Jumanji](https://www.youtube.com/channel/UCw3RDC7Nn5lzU15-HdOC6WA)
 
 <!---
