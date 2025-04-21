@@ -1,7 +1,7 @@
 ![portfolio](https://github.com/Jumanjigobez/Jumanjigobez/assets/73429193/54404272-f8af-4cc3-9965-28786b651db0)
 
 # 💫 About Me:
-- Passionate & Professional Software Developer<br>- Building Top-Notch Websites & Mobile Apps<br>👀 Specializing in Front-End Development :)<br>🌱 I’m currently learning IT<br>💞️ I’m looking to collaborate on Mobile & Website Development.<br>📫 How to reach me whatsapp:+254799333217, FB: juma casilas, IG: @Jumanjicasilas and Youtube: @Jumanji_Dev
+- Passionate & Professional Software Developer<br>- Building Top-Notch Websites & Mobile Apps<br>👀 Specializing in Front-End Development :)<br>🌱 I’m currently learning to dive in Full-Stack<br>💞️ I’m looking to collaborate on Website, Systems & Mobile Development.<br>📫 How to reach me whatsapp:+254799333217, FB: juma casilas, IG: @Jumanjicasilas and Youtube: @Jumanji_Dev
 
 
 ## 🌐 Socials:
